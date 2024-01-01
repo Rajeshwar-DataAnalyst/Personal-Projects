@@ -2,7 +2,7 @@
 # from wordcloud import WordCloud
 import pandas as pd
 from collections import Counter
-import emoji
+# import emoji
 
 extract = URLExtract() 
 def fetch_stats(selected_user, df):
